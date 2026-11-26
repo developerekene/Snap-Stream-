@@ -1,0 +1,23 @@
+<resources>
+    <string name="app_name">SnapStream</string>
+    <string name="tab_gallery">Gallery</string>
+    <string name="tab_videos">Videos</string>
+    <string name="tab_profile">Profile</string>
+    <string name="action_rescan">Rescan Device</string>
+    <string name="action_allow_access">Allow Media Access</string>
+    <string name="action_pick_files">Pick Files</string>
+    <string name="action_edit">Edit</string>
+    <string name="action_save">Save</string>
+    <string name="action_save_copy">Save Copy</string>
+    <string name="action_reset">Reset</string>
+    <string name="action_cancel">Cancel</string>
+    <string name="action_delete">Delete</string>
+    <string name="action_share">Share</string>
+    <string name="editor_title">SnapStream Studio</string>
+    <string name="permission_title">Access Device Photos &amp; Videos</string>
+    <string name="permission_desc">SnapStream works completely offline to organize, browse, crop, and filter the pictures and videos stored on your device.</string>
+    <string name="empty_gallery_title">No media found</string>
+    <string name="empty_gallery_subtitle">No pictures or videos match this folder or filter on your device.</string>
+    <string name="empty_videos_title">No videos found</string>
+    <string name="empty_videos_subtitle">No video files match this folder or filter on your device.</string>
+</resources>

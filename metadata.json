@@ -1,0 +1,6 @@
+{
+  "name": "SnapStream",
+  "description": "Media gallery, photo & video editing suite with filters, cropping, and cloud sync.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
